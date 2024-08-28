@@ -17,8 +17,6 @@
   PC Control Device - supports WOL and Windows Remote Shutdown Manager (https://github.com/karpach/remote-shutdown-pc)
 
 --]]
-
-
 local capabilities = require "st.capabilities"
 local Driver = require "st.driver"
 local cosock = require "cosock"        -- for time only
