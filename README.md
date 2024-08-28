@@ -7,3 +7,9 @@ Massive Thank you to [@tooddaustin07](https://github.com/toddaustin07) for shari
 As you know, Mi home does not support SmartThings via cloud.
 
 So my plan is send the data to ST hub through [node-red](https://github.com/stason325/node-red-contrib-miio-localdevices) server.
+
+## How to use
+
+Enroll [MY CHANNEL](https://callaway.smartthings.com/channels/762d9000-7777-4347-9c6a-7a7c9ba3186b) and install Mi Air driver
+
+This driver recieves data from node-red server via http, and it's able to send commands as well.
