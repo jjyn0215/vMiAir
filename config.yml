@@ -1,0 +1,5 @@
+name: 'Mi Air device driver22'
+packageKey: 'miairv1'
+permissions:
+    lan: {}
+    discovery: {}
