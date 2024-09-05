@@ -14,3 +14,5 @@ Enroll [MY CHANNEL](https://bestow-regional.api.smartthings.com/invite/OzMgQBYw4
 
 This driver recieves Mi Air data from node-red server via http, and it's able to send commands as well.
 
+## But why?
+If you have a sevrer, then just use HA matter bridge :(
