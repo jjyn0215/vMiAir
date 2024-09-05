@@ -16,3 +16,6 @@ This driver recieves Mi Air data from node-red server via http, and it's able to
 
 ## But why?
 If you have a sevrer, then just use HA matter bridge :(
+
+## Preview
+![?](https://github.com/jjyn0215/vMiAir/blob/main/Screenshot_20240906_030806_SmartThings.jpg)
